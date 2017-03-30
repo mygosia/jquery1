@@ -1,0 +1,12 @@
+body {
+	background-color: pink;
+	}
+body div {
+	width: 80%;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+button {
+	padding: 5px;
+	margin: 10px;
+}
